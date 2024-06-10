@@ -10,6 +10,8 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
 
+{% include feature/nav-menu.html sections="About Alexander Lippisch Digital Collection;TechnicalCredits - Collection Builder" %}
+
 ## About Alexander Lippisch Digital Collection
 
 Alexander Lippisch Digital Collection contains Lippisch's aeronautical designs including wingless aircraft, delta-wings, and aerodynes, and photographic images of delta wings.
